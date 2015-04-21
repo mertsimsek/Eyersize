@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="routine11">
+
+        <item>Ferris Wheel/1 minute each direction</item>
+        <item>Distant Night/1 minute</item>
+        <item>3 Cups: Level 1/4 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Eyes Wide Open/1 minute</item>
+        <item>Muscle Massage/1 minute</item>
+        <item>Key #6: Relax/5 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine12">
+
+        <item>Ferris Wheel/30 sec. each direction</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/3 minutes each eye</item>
+        <item>In &amp; Out Level 2/3 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>3 Cups: Level 2a/4 minutes</item>
+        <item>Stringbeads (down string)/3 minutes</item>
+        <item>Muscle Massage/1 minute</item>
+        <item>Key #6: Relax/5 minutes</item>
+
+    </string-array>
+
+
+    <string-array name="routine13">
+
+        <item>Ferris Wheel/30 sec. each direction</item>
+        <item>Distant Night/1 minute</item>
+        <item>3 Cups: Level 2b/4 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Eyes Wide Open/1 minute</item>
+        <item>Pinball/1 minute each eye</item>
+        <item>Muscle Massage/1 minute</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine14">
+
+        <item>Ferris Wheel/30 sec. each direction</item>
+        <item>Distant Night/1 minute</item>
+        <item>3 Cups: Level 3a/2 minutes</item>
+        <item>3 Cups: Level 3b/2 minutes</item>
+        <item>In &amp; Out/5 minutes each eye</item>
+        <item>In &amp; Out Level 2/3 minutes</item>
+        <item>Stringbeads (down string)/3 minutes</item>
+        <item>Key #6: Relax/3 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine15">
+
+        <item>3 Cups: Level 2b/2 minutes</item>
+        <item>3 Cups: Level 3a/2 minutes</item>
+        <item>3 Cups: Level 3b/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/3 minutes</item>
+        <item>Stringbeads (down string)/3 minutes</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine16">
+
+        <item>3 Cups: Level 2b/2 minutes</item>
+        <item>3 Cups: Level 3a/2 minutes</item>
+        <item>3 Cups: Level 3b/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/5 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Eyes Wide Open/1 minute</item>
+        <item>Stringbeads (down string)/2 minutes</item>
+        <item>Key #6: Relax/3 minutes</item>
+
+    </string-array>
+
+
+    <string-array name="routine21">
+
+        <item>Ferris Wheel/1 minute each direction</item>
+        <item>Distant Night/1 minute</item>
+        <item>3 Cups: Level 1/4 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/3 minutes</item>
+        <item>Muscle Massage/1 minute</item>
+        <item>Key #6: Relax/5 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine22">
+
+        <item>Pinball/2 minutes each eye</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/3 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>3 Cups: Level 2a/4 minutes</item>
+        <item>Stringbeads (up string)/3 minutes</item>
+        <item>Muscle Massage/1 minute</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine23">
+
+        <item>Ferris Wheel/30 sec. each direction</item>
+        <item>Stringbeads (up string)/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>3 Cups: Level 2b/4 minutes</item>
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Eyes Wide Open/1 minute</item>
+        <item>Pinball/1 minute each eye</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine24">
+
+        <item>Pinball/2 minutes each eye</item>
+        <item>3 Cups: Level 3a/2 minutes</item>
+        <item>3 Cups: Level 3b/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/5 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine25">
+
+        <item>3 Cups: Level 2b/2 minutes</item>
+        <item>3 Cups: Level 3a/2 minutes</item>
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>Pinball/2 minutes each eye</item>
+        <item>Stringbeads (up string)/3 minutes</item>
+        <item>Key #6: Relax/3 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine26">
+
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Stringbeads (up string)/3 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>Pinball/2 minutes each eye</item>
+        <item>3 Cups: Level 2b/3 minutes</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine31">
+
+        <item>Ferris Wheel/1 minute each direction</item>
+        <item>Distant Night/1 minute</item>
+        <item>3 Cups: Level 1/4 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/3 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Eyes Wide Open/1 minute</item>
+        <item>Distant Night/1 minute</item>
+        <item>Stringbeads (up &amp; down)/3 minutes</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine32">
+
+        <item>Ferris Wheel/30 sec. each direction</item>
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>3 Cups: Level 2a/4 minutes</item>
+        <item>Stringbeads (up &amp; down)/2 minutes</item>
+        <item>Pinball/2 minutes each eye</item>
+        <item>Key #6: Relax/3 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine33">
+
+        <item>Ferris Wheel/30 sec. each direction</item>
+        <item>3 Cups: Level 1/4 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/5 minutes each eye</item>
+        <item>In &amp; Out Level 2/1 minute</item>
+        <item>Eyes Wide Open/1 minute</item>
+        <item>Pinball/1 minute each eye</item>
+        <item>Muscle Massage/1 minute</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine34">
+
+        <item>Ferris Wheel/30 sec. each direction</item>
+        <item>3 Cups: Level 3a/2 minutes</item>
+        <item>3 Cups: Level 3b/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/5 minutes each eye</item>
+        <item>In &amp; Out Level 2/1 minute</item>
+        <item>Stringbeads (up &amp; down)/2 minutes</item>
+        <item>Pinball/2 minutes each eye</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine35">
+
+        <item>Ferris Wheel/30 sec. each direction</item>
+        <item>3 Cups: Level 2b/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/5 minutes each eye</item>
+        <item>In &amp; Out Level 2/2 minutes</item>
+        <item>Eyes Wide Open/1 minute</item>
+        <item>Stringbeads (up &amp; down)/2 minutes</item>
+        <item>Pinball/1 minute each eye</item>
+        <item>Key #6: Relax/4 minutes</item>
+
+    </string-array>
+
+    <string-array name="routine36">
+
+        <item>Ferris Wheel/1 minute each direction</item>
+        <item>3 Cups: Level 2b/2 minutes</item>
+        <item>3 Cups: Level 3a/2 minutes</item>
+        <item>3 Cups: Level 3b/2 minutes</item>
+        <item>Distant Night/1 minute</item>
+        <item>In &amp; Out/4 minutes each eye</item>
+        <item>In &amp; Out Level 2/1 minute</item>
+        <item>Stringbeads (up &amp; down)/2 minutes</item>
+        <item>Pinball/1 minute each eye</item>
+        <item>Key #6: Relax/3 minutes</item>
+
+    </string-array>
+
+
+</resources>
